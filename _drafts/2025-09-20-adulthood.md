@@ -4,7 +4,7 @@ title:  "On loneliness and entering the adulthood"
 author: naznien
 categories: [ Writing ]
 tags: [  ]
-image: 
+image: "assets/images/adulthood.png"
 comments: true
 ---
 
