@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naznien Malano</title>
+    <description>A Writing Dump</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Oct 2025 13:49:32 +0700</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 13:49:32 +0700</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>On loneliness and entering the adulthood</title>
+        <description>&lt;p&gt;Turns out, adulthood isn’t what I imagined. Somehow it feels boring, lonely, and confusing, even when I’m starting to become the person I once dreamed of being. I have a routine that used to seem ideal, and I’ve accomplished things I once thought were out of reach. But still… I don’t know. Maybe it’s because I no longer know what comes next. When I got into one of favorite public high schools in Jakarta with what I’d call “kind of” good grades, I knew exactly what my next goal was: to get into a good university. When I made it to my dream university, I had a clear list of what I needed to do next: maintain a good GPA, land an internship, and eventually secure a job at a company I could be proud of.&lt;/p&gt;
+
+&lt;p&gt;And now that I’m working at a company I once thought was impossible to get into… I don’t know what’s next. Should I climb the corporate ladder? Start a side project or build a business of my own? Pursue another degree, something that challenges me again? Or maybe, for the first time, should I focus on my personal life—on building a serious relationship, on thinking about marriage, on finding emotional stability rather than professional success? How many years will I stay in this company? I don’t know. I really don’t know what’s best for me, and that uncertainty quietly scares me.&lt;/p&gt;
+
+&lt;p&gt;And another thing I’ve learned after entering adulthood: I crave companionship more than I ever expected. I used to think I was good at being alone. Maybe I even romanticized it a little, the quiet, the independence, the idea of being strong and self-sufficient. But the truth is, I only enjoy solitude when life is heavy, when my mind feels crowded, when I need space to think or recover. I’m not being avoidant; I just need silence when I’m struggling. But when things are going well like now, when I finally have peace, when the chaos subsides, I start craving connection. I want laughter that fills a room, spontaneous plans, people who make ordinary days feel less dull.&lt;/p&gt;
+
+&lt;p&gt;I’m grateful for my current routine, it’s the kind of work-life balance I used to dream of. I have a supportive team, kind seniors who never make me feel small, and work that pays decently while still leaving time for rest. Everything is fine, objectively speaking. Yet somehow, I feel bored and lonely. Maybe it’s because, for the first time, it feels like I’m not hustling for anything. When I was in junior high, I was busy with archery practice and competitions. Everything that I do is just to get a medal. In high school and college, I was constantly chasing grades, targets, and the next big thing. Every phase of my life had a goal, a sense of direction and a reason to keep pushing forward. But now that I finally have what I used to wish for—time, stability, and a sense of calm, I feel strangely hollow. I finally have the freedom I wanted, and yet it feels like I’ve lost the momentum that once made life exciting.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I wonder if this is just part of growing up, this quiet confusion that sits between gratitude and longing. I know I should be thankful for what I have like what my parents always told me, and I am. But at the same time, I can’t help but feel restless. My job is good, but am I learning enough? Am I challenging myself enough? Should I pursue another degree, something more difficult, something that reignites the ambition I used to have in college? Or should I slow down, stop running, and learn to simply exist without constantly chasing something?&lt;/p&gt;
+
+&lt;p&gt;I don’t have the answers yet. Maybe adulthood isn’t about knowing exactly what’s next. Maybe it’s about learning to live with the uncertainty, to find meaning in the quiet stretches between achievements, to build a life that isn’t always measured by progress, but by peace.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Sep 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/adulthood/</link>
+        <guid isPermaLink="true">http://localhost:4000/adulthood/</guid>
+        
+        
+        <category>Writing</category>
+        
+      </item>
+    
+      <item>
+        <title>On passion and what I really want it to do for living</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Sep 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/passion/</link>
+        <guid isPermaLink="true">http://localhost:4000/passion/</guid>
+        
+        
+        <category>Writing</category>
+        
+      </item>
+    
+      <item>
+        <title>On feminism and looking for a partner</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Sep 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/feminism-and-partner/</link>
+        <guid isPermaLink="true">http://localhost:4000/feminism-and-partner/</guid>
+        
+        
+        <category>Writing</category>
+        
+      </item>
+    
+      <item>
+        <title>On female friendship</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Sep 2025 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/female-friendship/</link>
+        <guid isPermaLink="true">http://localhost:4000/female-friendship/</guid>
+        
+        
+        <category>Writing</category>
+        
+      </item>
+    
+  </channel>
+</rss>

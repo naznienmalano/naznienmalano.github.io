@@ -1,6 +1,6 @@
 # Site
-name: "naznienfevrianne"
-title: "naznienfevrianne"
+name: "Naznien Malano"
+title: "Naznien Malano"
 description: "A Writing Dump"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -16,14 +16,14 @@ email: nfmalano@gmail.com
 authors:
   naznien:
     name: Naznien Fevrianne Malano
-    display_name: naznienfevrianne
+    display_name: Naznien Malano
     avatar: 'assets/images/avatar.jpg'
     email: nfmalano@gmail.com
-    web: https://github.com/naznienfevrianne
+    web: https://github.com/naznienmalano
     instagram: https://instagram.com/naznienfevrianne
     linkedin: https://linkedin.com/in/naznien-fevrianne-malano
-    description: "Hello. My name is Naznien Fevrianne. I'm an Information Systems undergraduate and currently interested in learning Data Science & Web Development. 
-    In this blog, I'll write about my study, the books I read, the movies I watch, and bunch of random things that interesting to write. 
+    description: "Hello. My name is Naznien Fevrianne Malano. I'm an Information Systems graduate and currently working as a Data Scientist. 
+    In this blog, I'll write about my work, my learnings, the books I read, the movies I watch, and bunch of random things that interesting to write. 
     I'm happy to receive any criticism and suggestions regarding this blog via contact section."
 
 # Plugins
