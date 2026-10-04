@@ -52,7 +52,7 @@ These days, some of that learning has nothing to do with my job. I spend some of
 
 I’m also kind of obsessed with music. I taught myself how to play guitar when I was a kid, mostly because of John Mayer. My music taste has expanded a lot since then. I listen to Fiona Apple, Jeff Buckley, Hozier, Fairuz, and so many others. Honestly, I listen to way too much music to list everything here. I have a ridiculous number of [Spotify playlists](https://open.spotify.com/user/nfmalano?si=HYQKy2sXRcOcwUyLgC_Cgg&utm_source=copy-link) that probably explain my taste better than I ever could, haha.
 
-And then there are books. I love reading, especially works by writers like Elif Shafak and Arundhati Roy. One of my reading goals is to read more books by women in translation and discover literature from different parts of the world. I share what I’m currently reading, and occasionally my thoughts about the books, on [@shereadsclub on Instagram](www.instagram.com/shereadsclub) and on [my Goodreads](https://www.goodreads.com/user/show/25631335)
+And then there are books. I love reading, especially works by writers like Elif Shafak and Arundhati Roy. One of my reading goals is to read more books by women in translation and discover literature from different parts of the world. I share what I’m currently reading, and occasionally my thoughts about the books, on [@shereadsclub on Instagram](https://www.instagram.com/shereadsclub) and on [my Goodreads](https://www.goodreads.com/user/show/25631335)
 
 I also love watching tennis, especially the Grand Slams. My favorite players are Carlos Alcaraz and Iga Świątek.
 
@@ -62,4 +62,4 @@ I love Iga Świątek for different reasons. I really admire her determination, a
 
 So, yeah. In short, I work with AI for a living, used to shoot arrows competitively, wasn’t much of an academic growing up, but somehow ended up falling in love with linear algebra. In my spare time, I love watching tennis and hyperfixating over some books/films/musics. 😁
 
-Feel free to connect with me, I often posts in [Instagram](www.instagram.com/naznienfevrianne) and tweet a lot in [Twitter](x.com/naznienfevrnne). I will be very happy interacting with anyone as I am also chronically online! Hehe 😁
+Feel free to connect with me, I often posts in [Instagram](https://www.instagram.com/naznienfevrianne) and tweet a lot in [Twitter](https://www.x.com/naznienfevrnne). I will be very happy interacting with anyone as I am also chronically online! Hehe 😁
