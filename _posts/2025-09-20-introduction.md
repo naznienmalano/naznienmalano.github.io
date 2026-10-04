@@ -54,7 +54,12 @@ I’m also kind of obsessed with music. I taught myself how to play guitar when 
 
 And then there are books. I love reading, especially works by writers like Elif Shafak and Arundhati Roy. One of my reading goals is to read more books by women in translation and discover literature from different parts of the world. I share what I’m currently reading, and occasionally my thoughts about the books, on [@shereadsclub on Instagram](www.instagram.com/shereadsclub) and on [my Goodreads](https://www.goodreads.com/user/show/25631335)
 
-So, yeah. I work with AI for a living, used to shoot arrows competitively, once seriously considered studying International Relations, somehow ended up falling in love with linear algebra, spend my weekends learning piano and tennis, have far too many Spotify playlists, and am perpetually trying to read more books. 🙂
+I also love watching tennis, especially the Grand Slams. My favorite players are Carlos Alcaraz and Iga Świątek.
 
-I guess, somewhere along the way, the kid who wasn’t used to studying became someone who genuinely loves learning new things. 😁
- 
+I love Alcaraz because of his almost childlike enthusiasm and how exciting his game is to watch. I sometimes struggle with watching best-of-five matches in men’s tennis because they can feel really long and, honestly, a little boring at times. But somehow, I never find myself bored watching Alcaraz play. There’s always something interesting happening on court.
+
+I love Iga Świątek for different reasons. I really admire her determination, agility, and attitude on court. I’m still rooting for her to win more Grand Slams and eventually make her way back to world No. 1. :D
+
+So, yeah. In short, I work with AI for a living, used to shoot arrows competitively, wasn’t much of an academic growing up, but somehow ended up falling in love with linear algebra. In my spare time, I love watching tennis and hyperfixating over some books/films/musics. 😁
+
+Feel free to connect with me, I often posts in [Instagram](www.instagram.com/naznienfevrianne) and tweet a lot in [Twitter](x.com/naznienfevrnne). I will be very happy interacting with anyone as I am also chronically online! Hehe 😁
