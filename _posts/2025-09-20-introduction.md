@@ -4,7 +4,7 @@ title: "Introductio"
 author: naznien
 categories: [ "Writing" ]
 tags: [ "Introduction" ]
-image:
+image: 'assets/images/IMG_5217.jpeg'
 comments: true
 ---
 
