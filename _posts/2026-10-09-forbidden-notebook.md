@@ -4,7 +4,7 @@ title:  "I Can't Stop Thinking About Forbidden Notebook"
 author: naznien
 categories: [ Book ]
 tags: [ Book, Review ]
-image: "assets/images/IMG_8084.jpeg"
+image: "assets/images/IMG_8079.jpeg"
 comments: true
 ---
 
